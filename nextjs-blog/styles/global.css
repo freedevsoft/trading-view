@@ -1,0 +1,29 @@
+nav {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 27px;
+    height: 65px;
+    /* border-bottom: 1px solid rgb(112, 110, 110) */
+  }
+
+  nav a {
+    margin-right:15px;
+    margin-left:10px;
+    color: rgb(136, 129, 129);
+    text-decoration: none;
+    text-align: left;
+  }
+  nav span {
+        margin-left:10px;
+      }
+  nav .theme {
+      right:10px;
+      background-color: #888!important;
+  }
+  h1 {
+    color: rgb(136, 129, 129);
+  }
